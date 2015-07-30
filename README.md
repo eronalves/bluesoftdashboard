@@ -1,5 +1,5 @@
-# bluesoftdashboard
-> Dashboard com Ranking de bandas mais votadas.
+# BlueSoft Dashboard
+> Dashboard com Ranking de bandas mais votadas. (Os dados são atualizados a cada 30 segundos através do Angular Advanced Poller).
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.11.1.
